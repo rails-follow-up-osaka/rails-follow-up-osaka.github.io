@@ -1,0 +1,15 @@
+title: Rails Follow-up Osaka
+description: >
+  大阪で Ruby、 Rails 初心者・初級者向けに有志でフォローする勉強会です。
+  知らない人が知ってる人に質問して教えあったり、相談したりできるコミュニティ。
+url: "https://rails-follow-up-osaka.github.io"
+github_username:  rails-follow-up-osaka
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+language: ja
+hashtag: rails_followup_osaka
+timezone: Asia/Tokyo
